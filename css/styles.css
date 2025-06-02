@@ -261,7 +261,7 @@ span {
   letter-spacing: 0.02em;
   text-align: center;
   color: #434455;
-  padding-bottom: 8px;
+  margin-bottom: 8px;
 }
 .team-item-list {
   background-color: #fff;
@@ -366,9 +366,7 @@ span {
   display: flex;
   align-items: baseline;
 }
-.footer-logo-wrapper {
-  margin-right: 120px;
-}
+
 .footer-logo {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
@@ -393,7 +391,7 @@ span {
   max-width: 264px;
 }
 .footer-social-media {
-  padding-left: 120px;
+  margin-left: 120px;
 }
 .footer-social-media-title {
   font-weight: 500;
