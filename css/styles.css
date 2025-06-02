@@ -391,7 +391,6 @@ span {
   letter-spacing: 0.02em;
   color: #f4f4fd;
   max-width: 264px;
-  margin-bottom: 16px;
 }
 .footer-social-media {
   padding-left: 120px;
@@ -402,7 +401,7 @@ span {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #fff;
-  padding-bottom: 16px;
+  margin-bottom: 16px;
 }
 .footer-social-list {
   display: flex;
@@ -428,9 +427,6 @@ span {
 }
 .footer-social-icon {
   fill: #f4f4fd;
-}
-.footer {
-  width: 264px;
 }
 footer {
   background: #2e2f42;
